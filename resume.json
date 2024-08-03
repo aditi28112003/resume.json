@@ -1,0 +1,66 @@
+{
+"personal_information": {
+    "name": "Aditi Chandra",
+    "email": "aditichandra2811@gmail.com",
+    "phone": "+91-7903743349",
+    "linkedin": "https://www.linkedin.com/in/theaditichandra",
+    "github": "https://github.com/aditi28112003"
+},
+"education": [
+    {
+    "degree": "BTech",
+    "field": "Computer Science and Engineering",
+    "institution": "Lovely Professional University",
+    "year": "Expected 2024",
+    "cgpa": "7.51"
+    }
+    ],
+"skills": [
+    "C++",
+    "Python",
+    "JavaScript",
+    "SQL",
+    "R programming",
+    "Git",
+    "GitHub",
+    "Ubuntu",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Scikit-Learn",
+    "Keras",
+    "TensorFlow",
+    "PowerBI",
+    "Tableau",
+    "PyTorch",
+    "OpenCV"
+],
+"work_experience": [
+    {
+    "job_title": "Intern - Data Engineer",
+    "company": "XYZ Company",
+    "duration": "June 2023 - August 2023",
+    "responsibilities": [
+        "Developed data pipelines using Python.",
+        "Implemented data validation and cleansing processes.",
+        "Assisted in data analysis and visualization."
+    ]
+    }
+    ],
+    "projects": [
+    {
+        "project_name": "Credit Card Fraud Detection System",
+        "description": "Developed a system to detect fraudulent transactions using machine learning algorithms.",
+        "technologies": [
+        "Python",
+        "NumPy",
+        "Pandas",
+        "Scikit-Learn"
+        ]
+    }
+    ],
+    "certifications": [
+    "R Programming - Coursera",
+    "Data Structure and Algorithm - GeeksforGeeks"
+    ]
+}
