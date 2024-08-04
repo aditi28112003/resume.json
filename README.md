@@ -6,9 +6,6 @@ This JSON file stores the resume data of Aditi Chandra. It includes detailed sec
 This repository contains a Python script and JSON file related to resume parsing.
 
 ## JSON File
-
-**'resume.json'**
-
 This JSON file contains the structured data of a resume for Aditi Chandra. The file includes:
 
 - **Personal Information**: Name, email, phone number, LinkedIn, and GitHub links.
