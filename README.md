@@ -7,7 +7,7 @@ This repository contains a Python script and JSON file related to resume parsing
 
 ## JSON File
 
-**`resume.json`**
+**'resume.json'**
 
 This JSON file contains the structured data of a resume for Aditi Chandra. The file includes:
 
